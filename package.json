@@ -1,0 +1,19 @@
+{
+  "name": "taaroa",
+  "version": "0.1.0",
+  "description": "List of components / modules / helpers for BoardGames",
+  "author": "Yoann Chane Kive <yoannck@gmail.com> (http://yoannck.com)",
+  "main": "helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yoannck/taaroa.git"
+  },
+  "keywords": [
+    "helper"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
